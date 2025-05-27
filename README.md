@@ -8,10 +8,10 @@
 
 <h2>📺 Popular Tiktok Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s/label)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU/label)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk/label)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0/label)
+- [Visibility in Digital age](https://www.youtube.com/watch?v=a83ASGn_V_s/label)
+- [AI generated Quotes](https://www.youtube.com/watch?v=uHy3oM7NnoU/label)
+- [Exposing AI library](https://www.youtube.com/watch?v=N-L9hklSlNk/label)
+- [Deepfakes exposed](https://www.youtube.com/watch?v=OfvdQeh79s0/label)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA/label)
 
   <h2>Certifications</h2>
